@@ -72,4 +72,4 @@ cacheSolve <- function(x, ...) {
 ##     [,1] [,2]
 ## [1,]    1    0
 ## [2,]    0    1
-## ## When you multiply a matrix by its Inverse you get the Identity Matrix
+## ## When you multiply a matrix by its inverse you get the identity matrix
